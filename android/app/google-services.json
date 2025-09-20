@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633047998471",
+    "project_id": "birthday-reminder-calend-107f6",
+    "storage_bucket": "birthday-reminder-calend-107f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633047998471:android:d1e3a447cb89dc74068aa2",
+        "android_client_info": {
+          "package_name": "com.vocsy.birthdayReminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHBXqWn7sdiekvQFqw9OCTNeCsKrMeYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
