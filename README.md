@@ -37,4 +37,4 @@
 #### GITHUB
 
 - **BRANCH** main
-- https://github.com/vocsyinfotech/CC-Flutter_Birthday_Reminder_Calendar
+- https://github.com/mah-shamim/birthday-reminder-flutter-app-flutter-app/releases/tag/v1.0.0
